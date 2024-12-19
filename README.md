@@ -17,6 +17,7 @@
   - Newspaper: Advertising budget allocated to newspapers (in thousands of dollars).
 
   - Sales: Sales of the product (in thousands of units).
+  ---
 - Result
   
   The model predicts sales based on the TV advertising budget.
